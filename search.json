@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Orchestrating pipelines",
+    "section": "",
+    "text": "{targets} which is the long-term successor of {drake};\n{workflowr};\n{maestro}."
+  },
+  {
+    "objectID": "index.html#r-based-approaches",
+    "href": "index.html#r-based-approaches",
+    "title": "Orchestrating pipelines",
+    "section": "",
+    "text": "{targets} which is the long-term successor of {drake};\n{workflowr};\n{maestro}."
+  },
+  {
+    "objectID": "index.html#python-based-approaches",
+    "href": "index.html#python-based-approaches",
+    "title": "Orchestrating pipelines",
+    "section": "Python-based approaches",
+    "text": "Python-based approaches\n\n{snakemake}."
+  },
+  {
+    "objectID": "targets/targets.html",
+    "href": "targets/targets.html",
+    "title": "{targets}",
+    "section": "",
+    "text": "Website: https://docs.ropensci.org/targets/\nBook: https://books.ropensci.org/targets/"
+  }
+]

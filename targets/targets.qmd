@@ -1,0 +1,6 @@
+---
+title: "[{targets}](https://books.ropensci.org/targets/)"
+---
+
+- Website: <https://docs.ropensci.org/targets/>
+- Book: <https://books.ropensci.org/targets/>

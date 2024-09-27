@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Orchestrating pipelines"
+  repo-url: https://github.com/astamm/orchestrating-pipelines/
+  repo-actions: [edit, source, issue]
+  page-footer: 
+    background: light
+    left: Copyright 2024, Aymeric Stamm
+    right: This website is built with [Quarto](https://quarto.org/)
+  navbar:
+    logo: logo-futureverse.png
+    left:
+      - text: "{targets}"
+        href: targets/targets.qmd
+    right:
+      - icon: github
+        href: https://github.com/astamm/orchestrating-pipelines/
+        
+  search: 
+    location: navbar
+    type: overlay
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
